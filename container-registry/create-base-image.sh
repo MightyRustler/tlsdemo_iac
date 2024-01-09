@@ -7,7 +7,7 @@
 # note: DockerHub must be available (login via: "docker login")
 
 # construct the base container image name
-dockerHubAct="kevinjswinton"
+dockerHubAct="mightyrustler"
 dockerHubRpo="tlsdemo"
 dockerHubImg="web-base"
 imgDatestamp=$(date '+%Y%m%d')

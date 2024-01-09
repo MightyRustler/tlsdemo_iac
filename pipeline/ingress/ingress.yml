@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: www.tlsdemo.net
+    - host: staging2.tlsdemo.net
       http:
         paths:
           - pathType: Prefix
