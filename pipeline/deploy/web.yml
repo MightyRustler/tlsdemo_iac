@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: docker.io/mightyrustler/tlsdemo:ac3e27c
+          image: docker.io/mightyrustler/tlsdemo:43b98e6
           ports:
           - containerPort: 80
       imagePullSecrets:
